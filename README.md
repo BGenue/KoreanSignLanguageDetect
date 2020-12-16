@@ -2,9 +2,13 @@
 darkflow 사용
 
 anaconda 설치(파이썬 3.8)
+
 cuda : 10.0
+
 cudnn : cuda 버전 맞춰서 설치
+
 tensorflow-gpu : 1.15.0
+
 annotation tool : labelImg
 
 data generator : keras imageDataGenerator 활용
